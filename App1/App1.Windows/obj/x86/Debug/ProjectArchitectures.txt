@@ -1,0 +1,1 @@
+C:\Users\jinuj\documents\visual studio 2015\Projects\App1\App1\App1.Windows\App1.Windows.csproj;x86
